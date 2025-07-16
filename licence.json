@@ -9,7 +9,7 @@
         "expiry": "2025-12-31",
         "chains": ["ALL"]
     },
-    "DEMO-KEY": {
+    "DEMO": {
         "type": "demo",
         "expiry": "2023-12-31",
         "chains": ["ALL"]
