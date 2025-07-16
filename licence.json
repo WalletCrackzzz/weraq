@@ -1,17 +1,17 @@
 {
     "LICENSE-KEY-1": {
         "type": "basic",
-        "expiry": "2024-12-31",
+        "expiry": "2026-07-16",
         "chains": ["ALL"]
     },
     "Qo7MQ36p6LLp1ee": {
         "type": "premium",
-        "expiry": "2025-12-31",
+        "expiry": "2026-07-16",
         "chains": ["ALL"]
     },
     "DEMO": {
         "type": "demo",
-        "expiry": "2025-12-31",
+        "expiry": "2026-07-16",
         "chains": ["ALL"]
     }
 }
