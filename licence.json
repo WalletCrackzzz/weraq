@@ -9,7 +9,7 @@
         "expiry": "2026-07-16",
         "chains": ["ALL"]
     },
-    "DEMO": {
+    "POPO": {
         "type": "demo",
         "expiry": "2025-07-16",
         "chains": ["ALL"]
